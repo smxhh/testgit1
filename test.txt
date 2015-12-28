@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 testgit
 create a new branch.
-=======
 test git desktop
 testgit 
 create a new branch dev
->>>>>>> 98b481d7e9d57cd56ca735e98e819dcf0fe71b3e
+
